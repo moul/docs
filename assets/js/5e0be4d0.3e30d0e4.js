@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkosmosis_docs=self.webpackChunkosmosis_docs||[]).push([[2588],{98755:s=>{s.exports=JSON.parse('{"title":"Relayer","slug":"/category/relayer","permalink":"/osmosis-core/category/relayer","navigation":{"previous":{"title":"Asset Info","permalink":"/osmosis-core/asset-info"},"next":{"title":"Introduction","permalink":"/osmosis-core/relaying/"}}}')}}]);
